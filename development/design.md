@@ -1,4 +1,4 @@
 # Color Palette
-## Dark Theme, per user ratings
+### We use dark Theme, per survey
 ![](Survey1.png)
-### Background | Dark Grey #121212
+Background | Dark Grey #121212
